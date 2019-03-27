@@ -1,4 +1,4 @@
-package ml.dhoomilsheta.app.model;
+package kin.muni.app.model;
 
 import com.google.gson.annotations.SerializedName;
 

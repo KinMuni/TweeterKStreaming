@@ -1,4 +1,4 @@
-package ml.dhoomilsheta.app;
+package kin.muni.app;
 
 import static org.junit.Assert.assertTrue;
 

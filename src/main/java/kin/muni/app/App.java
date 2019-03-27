@@ -1,6 +1,6 @@
-package ml.dhoomilsheta.app;
+package kin.muni.app;
 
-import ml.dhoomilsheta.app.producer.TwitterKafkaProducer;
+import kin.muni.app.producer.TwitterKafkaProducer;
 
 /**
  * Hello world!

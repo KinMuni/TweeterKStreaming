@@ -1,4 +1,4 @@
-package ml.dhoomilsheta.app.producer.callback;
+package kin.muni.app.producer.callback;
 
 import org.apache.kafka.clients.producer.Callback;
 import org.apache.kafka.clients.producer.RecordMetadata;
